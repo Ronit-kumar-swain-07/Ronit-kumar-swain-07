@@ -122,7 +122,9 @@
 
 </p>
 
-### WakaTime
+## WakaTime
+[![wakatime](https://wakatime.com/badge/user/08657f98-53bd-4081-934d-1169465183e6.svg)](https://wakatime.com/@08657f98-53bd-4081-934d-1169465183e6)
+
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RONIT_KUMAR_SWAIN&layout=compact&theme=tokyonight)
 
 ---
