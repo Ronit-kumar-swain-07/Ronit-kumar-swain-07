@@ -2,14 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=56&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Problem+Solver;DSA+Learner;AI+%26+ML+Explorer;Java+%7C+Python;Leveling+Up+Everyday" />
 </p>
 
-# Hi 👋 I'm RONIT
+# Hi 👋 I'm RONIT,
 
 💻 **Problem Solving** | 🤖 ML Enthusiast
 
 - 🚀 Passionate about learning **Data Structures & Algorithms**
 - 🤖 Exploring **AI & Machine Learning**
 - 🧠 Learning **Java • Python • Problem Solving**
-- 📊 Improving coding and problem-solving skills daily
+- 📊 Improving coding and problem-solving skills daily.
 
 ---
 
