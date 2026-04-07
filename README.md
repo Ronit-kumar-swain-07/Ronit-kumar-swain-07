@@ -14,7 +14,7 @@
 ---
 
 
-## ⚒️ Tech Stacks
+## ⚒️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="left">
