@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm RONIT,
 
-💻 **Problem Solving** | 🤖 ML Enthusiast
+💻 **Problem Solver** | 🤖 ML Enthusiast
 
 - 🚀 Passionate about learning **Data Structures & Algorithms**
 - 🤖 Exploring **AI & Machine Learning**
