@@ -23,13 +23,6 @@
 
 ---
 
-### 🌐 Markup & Web Technologies
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
----
-
 ### 🤖 Machine Learning / Deep Learning (Learning)
 
 #### 🔹 Frameworks
@@ -53,7 +46,6 @@
 ### 🗄️ Databases
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 </p>
 
 ---
@@ -61,7 +53,6 @@
 ### 💻 Tools / Platforms
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48"/>
 </p>
 
 ---
@@ -76,9 +67,6 @@
 ### 🛠️ IDEs / Editors
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
-<img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48"/>
-<img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="48"/>
 </p>
 
 ---
