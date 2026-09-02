@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=56&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Problem+Solver;DSA+Learner;AI+%26+ML+Explorer;Java+%7C+Python;Leveling+Up+Everyday" /> 
 </p>
 
-# Hi 👋 I'm RONIT,
+# Hi 👋 I'm RONIT
 
 💻 **Problem Solver** | 🤖 ML Enthusiast
 
